@@ -1,0 +1,2 @@
+#show windows wifi password when already connected 
+netsh wlan show profile Wi-Fi name=yourwifiSSID key=clear
